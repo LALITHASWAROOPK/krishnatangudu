@@ -81,13 +81,23 @@
 ### Microsoft Fabric & Power BI
 - [Setting up Snowflake–Power BI Connectivity with Azure AD SSO and Auto-Provisioning](https://dev.to/swaroop_krishna_e2f4b83b2/setting-up-snowflake-power-bi-connectivity-with-azure-ad-sso-and-auto-provisioning-1gda)
 
-### SAP HANA Technical Content (SAP Community)
+### SAP HANA Technical Content (SAP Community / SCN)
+> 🗒️ **Full archive:** [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) — 1,489+ posts, 143 solutions, 385+ likes received
+
+#### SAP HANA Modelling & SQL Scripting
 - [SAP HANA: Using "Dynamic Join" in Calculation View (Graphical)](https://blogs.sap.com/?p=99974)
 - [SAP HANA: Handling Dynamic Select Column List and Multiple values in input parameter](https://blogs.sap.com/?p=99089)
 - [Using Multiple Values in Input parameter for filtering in Graphical Calculation View](https://blogs.sap.com/?p=99677)
-- [SAP HANA: My experiences on using Predictive Analysis Toolset with HANA](https://blogs.sap.com/?p=64845)
 - [SAP HANA: Workaround for using Commit & Rollback in exception handling block of a Stored Procedure](https://blogs.sap.com/?p=99553)
 - [SAP HANA: Replicating Data into SAP HANA using HDBSQL](https://blogs.sap.com/?p=98876)
+
+#### Predictive Analytics & Machine Learning on HANA
+- [SAP HANA: My experiences on using Predictive Analysis Toolset with HANA (PAL)](https://blogs.sap.com/?p=64845)
+- [SAP HANA: My Experiences with SAP Business Objects Predictive Analysis tool](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
+
+#### Community & Events
+- [SAP Inside Track Chennai 2014 – From an SCN Fan perspective](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742)
+- [Krishna Tangudu – HANA Distinguished Engineer and Poet](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641)
 
 ---
 
@@ -151,12 +161,27 @@
 
 ---
 
-## Speaking & Events
+## Speaking Engagements
 
-- SAP TechEd India (Met Marilyn Pratt and the SAP community team in person)
-- Multiple SAP Community meetups and webinars
+### SAP Inside Track Chennai 2014
+- **Roles:** Organizer + Speaker + Participant (all three!)
+- **Voted Top Speaker** by attendees (250+ SAP enthusiasts)
+- Spoke to a live audience of 250+ on SAP HANA topics within a 30-minute lightning session
+- Part of the core organizing team – coordinated venue, agenda, logistics 90 days out
+- [Read the full experience blog →](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742)
+
+### SAP Inside Track (Multiple Events)
+- Active speaker at multiple SAP Inside Track events across India
+- Topics covered: SAP HANA Modeling, SQL Scripting, performance optimization, predictive analytics
+
+### SAP TechEd Bangalore
+- Met Marilyn Pratt (SAP Community lead) and the global SAP community team in person
+- Recognized by the community for sustained technical content contributions
+
+### Other Engagements
 - Technical workshops on HANA modeling and Snowflake administration
-- Mentorship and guidance for aspiring data engineers
+- Internal knowledge-sharing sessions at Tech Mahindra and Infosys (110+ virtual attendees)
+- Mentorship for aspiring data engineers and SAP HANA practitioners
 
 ---
 
