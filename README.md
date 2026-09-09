@@ -10,6 +10,8 @@
   - [LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/) 
   - [Dev.to](https://dev.to/swaroop_krishna_e2f4b83b2)
   - [GitHub](https://github.com/LALITHASWAROOPK)
+  - [Snowflake Community](https://snowflake.discourse.group/u/krishna_tangudu/summary)
+  
 - ⚡ Fun facts about me: Passionate about data architecture, storytelling through data, and constantly exploring emerging technologies
 
 ---
@@ -23,6 +25,7 @@
 
 ### Certifications & Achievements
 - 🏆 **SAP HANA Distinguished Engineer** (Honored in 2014)
+- 🏆 **Snowflake Squad** (Honored in 2026)
 - ❄️ **Snowflake Pro Core Certified**
 - ✅ **4X SAP Certified:** SAP HANA 1.0, SAP BO 4.0, SAP BODS 3.x, SAP BI 7.0
 - 🌟 **Topic Leader Badge** - SAP HANA (2012)
