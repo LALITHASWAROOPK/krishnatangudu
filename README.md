@@ -11,7 +11,7 @@
   - [Dev.to](https://dev.to/swaroop_krishna_e2f4b83b2)
   - [GitHub](https://github.com/LALITHASWAROOPK)
   - [Snowflake Community](https://snowflake.discourse.group/u/krishna_tangudu/summary)
-  - [Data Platform Newsletter] (https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/)
+  - [Data Platform Newsletter](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/)
   
 - ⚡ Fun facts about me: Passionate about data architecture, storytelling through data, and constantly exploring emerging technologies
 
