@@ -1,9 +1,9 @@
-# Hello, I am Krishna 👋
+Hello, I am Krishna 👋
 
 ### Thank you for stopping by. Here's a little bit about myself...
 
 - 😄 My pronouns are: He/His/Him
-- 🔭 I'm currently working on all things **Snowflake**, **Microsoft Fabric** and **SAP HANA**. That means...
+- 🔭 I'm currently working on all things **Snowflake** and **SAP HANA**. That means...
   - 👯 I'm looking to collaborate and create technical content that we can share with the community
   - 🎯 Focus areas: Data Architecture, Cloud Data Warehousing, Data Engineering, and Lakehouse technologies
 - 📫 Here's how you can reach me: 
@@ -63,6 +63,8 @@ The repository includes the code, architecture, case study, demo and evaluation 
 ### Community Recognition
 
 - **Snowflake Squad — 2026**
+- **SAP HANA Distinguished Engineer — March 2014:** [SAP Community recognition announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641)
+- **SCN Topic Leader — SAP HANA, twice:** 2012 (awarded September 2012 while at Tech Mahindra) and 2013–2014 (awarded September 2014 while at Infosys)
 
 ### Honors & Awards
 
@@ -78,8 +80,6 @@ Recognition across enterprise delivery, technical contributions, community knowl
 | Apr 2015 | **Tech Champion** | Infosys | Project execution and SAP HANA articles during Q3FY15 |
 | Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
 | Jul & Sep 2014 | **SAP Inside Track — Top Speaker (1st Prize), twice** | SAP Community Network (SCN) | Chennai (July 2014) and Hyderabad (September 2014) |
-| Sep 2012 & Sep 2014 | **SCN Topic Leader — SAP HANA, twice** | SAP / SAP Community Network (SCN) | 2012 recognition while at Tech Mahindra; 2013–2014 recognition while at Infosys, awarded September 2014 |
-| Mar 2014 | **SAP HANA Distinguished Engineer** | SAP Community Network (SCN) | [Recognition announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641) |
 | May 2012 | **Pat On the Back (POB)** | Mahindra Satyam | Work for Nestlé |
 | May 2012 | **SCN Active Contributor GOLD** | SAP | Contributions to SAP Community Network |
 | Apr 2012 | **Associate of the Month** | Mahindra Satyam | SCN community contributions and representing the Mahindra Satyam SAP BI practice |
@@ -298,4 +298,3 @@ I'm always excited to discuss:
 ---
 
 **Let's build amazing data solutions together!** 🚀
-
