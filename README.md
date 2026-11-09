@@ -1,12 +1,21 @@
 # Krishna Tangudu
 
-**Data Architect at Agilent Technologies · Snowflake Squad 2026 · SAP HANA Distinguished Engineer**
+**Cloud Data, AI & Analytics Architect at Agilent Technologies · Snowflake Squad 2026 · SAP HANA Distinguished Engineer**
 
 I build enterprise data platforms and share the lessons that help other engineers build them better. My work spans Snowflake architecture, performance, governance and integration, with a growing focus on Cortex Agents and preserving business meaning as data moves between platforms.
 
-From answering SAP HANA community questions to publishing Snowflake code, practical guides and agent evaluations, my approach is consistent: **build, test, explain and help others learn.**
+Recognized as an **SAP HANA Distinguished Engineer in 2014**, a **two-time SCN SAP HANA Topic Leader**, and a **Snowflake Squad member in 2026**, I bring a longstanding commitment to technical community contribution. Today, I continue that work through public Snowflake projects, practical articles, agent evaluations and mentoring.
+
+My SAP HANA experience also informs the questions I explore on Snowflake: how to preserve business definitions during modernization, validate generated SQL and make data products trustworthy. My approach is consistent: **build, test, explain and help others learn.**
 
 [LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/) · [DEV articles](https://dev.to/swaroop_krishna_e2f4b83b2) · [Data Platform Field Notes](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/) · [Snowflake Community](https://snowflake.discourse.group/u/krishna_tangudu/summary)
+
+## Community recognition
+
+- **Snowflake Squad — 2026:** [Official Snowflake badge](https://developerbadges.snowflake.com/5c0df258-d1b8-4814-af86-1cce7d7e2bdc), issued September 3, 2026.
+- **SAP HANA Distinguished Engineer — March 2014:** [SAP Community announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641).
+- **SCN Topic Leader — SAP HANA, twice:** [2011–2012 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/announcing-the-scn-topic-leaders-2011-2012/ba-p/12942399) and [2013–2014 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/recognizing-the-scn-topic-leaders-for-2013-2014/ba-p/13099614). Listed under SAP HANA and In-Memory Computing as `krishna.tangudu2` and `krishna.tangudu`, respectively.
+- **SCN Active Contributor GOLD — May 2012:** Recognition for contributions to SAP Community Network.
 
 ## Contributions at a glance
 
@@ -103,7 +112,7 @@ These are starting points for readers who want to understand how I investigate p
 
 </details>
 
-## Community contributions and recognition
+## Community contributions
 
 ### Sharing knowledge and supporting others
 
@@ -113,24 +122,16 @@ These are starting points for readers who want to understand how I investigate p
 - **Nvolve mentoring:** Contributed as a volunteer mentor with Nvolve, supporting its work to help women pursue STEM careers.
 - **Technical mentoring:** Knowledge-sharing sessions and guidance for data engineers and SAP HANA practitioners, alongside mentoring within engineering teams.
 
-### Community recognition
-
-- **Snowflake Squad — 2026:** [Official Snowflake badge](https://developerbadges.snowflake.com/5c0df258-d1b8-4814-af86-1cce7d7e2bdc), issued September 3, 2026.
-- **SAP HANA Distinguished Engineer — March 2014:** [SAP Community announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641).
-- **SCN Topic Leader — SAP HANA, twice:** [2011–2012 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/announcing-the-scn-topic-leaders-2011-2012/ba-p/12942399) and [2013–2014 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/recognizing-the-scn-topic-leaders-for-2013-2014/ba-p/13099614). Listed under SAP HANA and In-Memory Computing as `krishna.tangudu2` and `krishna.tangudu`, respectively.
-- **SCN Active Contributor GOLD — May 2012:** Recognition for contributions to SAP Community Network.
-
 ## Professional background
 
-I am a **Data Architect at Agilent Technologies**, based in the San Francisco Bay Area, with earlier SAP BI and HANA roles at Infosys and Tech Mahindra. My experience connects enterprise implementation with community education: cloud data architecture, SAP modernization, Snowflake governance and optimization, Iceberg interoperability, and AI-assisted data discovery.
+I am a **Cloud Data, AI & Analytics Architect at Agilent Technologies**, based in the San Francisco Bay Area, with earlier SAP BI and HANA roles at Infosys and Tech Mahindra. My experience connects enterprise implementation with community education: cloud data architecture, SAP modernization, Snowflake governance and optimization, Iceberg interoperability, and AI-assisted data discovery.
 
 **Education:** Master's in Business Analytics, California State University, East Bay.  
 **Certifications:** SnowPro Core; four SAP certifications covering HANA 1.0, BO 4.0, BODS 3.x and BI 7.0.
 
-<details>
-<summary>Employer awards and delivery recognition</summary>
+## Employer awards and delivery recognition
 
-| Date | Honor or award | Issuer | Contribution recognized |
+| **Date** | **Honor or award** | **Issuer** | **Contribution recognized** |
 | --- | --- | --- | --- |
 | Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | Individual Contribution at Enterprise Analytics Team |
 | Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent Technologies | Crosslab Service Analytics |
@@ -141,8 +142,6 @@ I am a **Data Architect at Agilent Technologies**, based in the San Francisco Ba
 | Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
 | May 2012 | **Pat On the Back (POB)** | Mahindra Satyam | Work for Nestlé |
 | Apr 2012 | **Associate of the Month** | Mahindra Satyam | SCN community contributions and representing the Mahindra Satyam SAP BI practice |
-
-</details>
 
 ## Connect and collaborate
 
