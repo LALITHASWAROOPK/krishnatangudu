@@ -64,7 +64,7 @@ The repository includes the code, architecture, case study, demo and evaluation 
 
 - **Snowflake Squad — 2026**
 - **SAP HANA Distinguished Engineer — March 2014:** [SAP Community recognition announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641)
-- **SCN Topic Leader — SAP HANA, twice:** 2012 (awarded September 2012 while at Tech Mahindra) and 2013–2014 (awarded September 2014 while at Infosys)
+- **SCN Topic Leader — SAP HANA, twice:** 2012 , 2014
 
 ### Honors & Awards
 
