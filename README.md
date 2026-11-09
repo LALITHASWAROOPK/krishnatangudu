@@ -72,7 +72,7 @@ Recognition across enterprise delivery, technical contributions, community knowl
 
 | Date | Honor or award | Issuer | Contribution recognized |
 | --- | --- | --- | --- |
-| Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | — |
+| Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | Individual contribution to Enterprise Analytics Team |
 | Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent | Crosslab Service Analytics |
 | Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent | Distributor Order Reporting Process Simplification |
 | Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent | AcoE High Performance Analytics |
