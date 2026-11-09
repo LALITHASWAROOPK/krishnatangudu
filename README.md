@@ -17,15 +17,14 @@ My SAP HANA experience also informs the questions I explore on Snowflake: how to
 - **SCN Topic Leader — SAP HANA, twice:** [2011–2012 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/announcing-the-scn-topic-leaders-2011-2012/ba-p/12942399) and [2013–2014 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/recognizing-the-scn-topic-leaders-for-2013-2014/ba-p/13099614). Listed under SAP HANA and In-Memory Computing as `krishna.tangudu2` and `krishna.tangudu`, respectively.
 - **SCN Active Contributor GOLD — May 2012:** Recognition for contributions to SAP Community Network.
 
-## Contributions at a glance
+## Community Contributions
 
-| Contribution | Evidence |
-| --- | --- |
-| **25 technical articles on DEV** | Practical writing on Snowflake, AI agents, data engineering and platform interoperability; count updated November 9, 2026 |
-| **Data Platform Field Notes** | 8 newsletter editions; 860 subscribers as of November 8, 2026 |
-| **Four featured public projects** | Snowflake administration agents, Clone++, Salesforce zero-copy integration and the L2P hackathon prototype |
-| **Longstanding community support** | SAP Community archive: 1,489 posts, 143 solutions and 385 likes received, checked November 9, 2026 |
-| **Speaking and mentoring** | Two SAP Inside Track Top Speaker awards, event organization, technical knowledge sharing and Nvolve mentoring |
+- **Technical writing:** [25 articles on DEV](https://dev.to/swaroop_krishna_e2f4b83b2) on Snowflake, AI agents, data engineering and platform interoperability, sharing implementation lessons, tradeoffs and failure modes. Count updated November 9, 2026.
+- **Data Platform Field Notes:** [8 newsletter editions](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/) and **860 subscribers** as of November 8, 2026.
+- **Community answers:** My [SAP Community archive](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) records contributions dating back to 2010: **1,489 posts, 143 solutions and 385 likes received**, checked November 9, 2026. These totals include discussions and answers, not just articles; the migrated profile is displayed as `former_member182302`.
+- **Speaking and event organization:** Organizer and speaker at SAP Inside Track Chennai 2014; awarded **Top Speaker (1st Prize)** at both Chennai (July 2014) and Hyderabad (September 2014). [Chennai event account](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742).
+- **Nvolve mentoring:** Contributed as a volunteer mentor with Nvolve, supporting its work to help women pursue STEM careers.
+- **Technical mentoring:** Knowledge-sharing sessions and guidance for data engineers and SAP HANA practitioners, alongside mentoring within engineering teams.
 
 ## Snowflake projects and practical lessons
 
@@ -111,16 +110,6 @@ These are starting points for readers who want to understand how I investigate p
 - [SAP HANA: My Experiences with SAP Business Objects Predictive Analysis tool](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
 
 </details>
-
-## Community contributions
-
-### Sharing knowledge and supporting others
-
-- **Writing and education:** I publish practical technical articles and Data Platform Field Notes to make implementation lessons, tradeoffs and failure modes useful to other engineers.
-- **Community answers:** My [SAP Community archive](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) records contributions dating back to 2010. Its totals include discussions and answers, not just articles; the migrated profile is displayed as `former_member182302`.
-- **Speaking and event organization:** Organizer and speaker at SAP Inside Track Chennai 2014; awarded **Top Speaker (1st Prize)** at both Chennai (July 2014) and Hyderabad (September 2014). [Chennai event account](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742).
-- **Nvolve mentoring:** Contributed as a volunteer mentor with Nvolve, supporting its work to help women pursue STEM careers.
-- **Technical mentoring:** Knowledge-sharing sessions and guidance for data engineers and SAP HANA practitioners, alongside mentoring within engineering teams.
 
 ## Professional background
 
