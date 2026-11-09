@@ -1,4 +1,4 @@
-Hello, I am Krishna 👋
+# Hello, I am Krishna 👋
 
 ### Thank you for stopping by. Here's a little bit about myself...
 
@@ -55,12 +55,34 @@ The repository includes the code, architecture, case study, demo and evaluation 
 **Location:** San Francisco Bay Area  
 **Education:** Masters in Business Analytics (CSUEB)
 
-### Certifications & Achievements
-- 🏆 **SAP HANA Distinguished Engineer** (Honored in 2014)
-- 🏆 **Snowflake Squad** (Honored in 2026)
+### Certifications
+
 - ❄️ **SnowPro Core Certified**
 - ✅ **4X SAP Certified:** SAP HANA 1.0, SAP BO 4.0, SAP BODS 3.x, SAP BI 7.0
-- 🌟 **Topic Leader Badge** - SAP HANA (2012)
+
+### Community Recognition
+
+- **Snowflake Squad — 2026**
+
+### Honors & Awards
+
+Recognition across enterprise delivery, technical contributions, community knowledge sharing and public speaking.
+
+| Date | Honor or award | Issuer | Contribution recognized |
+| --- | --- | --- | --- |
+| Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | — |
+| Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent | Crosslab Service Analytics |
+| Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent | Distributor Order Reporting Process Simplification |
+| Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent | AcoE High Performance Analytics |
+| Aug 2015 | **INSTA Award** | Infosys | Contributions and dedication to UOV deliverables, plus HANA technical support for other accounts and proposals |
+| Apr 2015 | **Tech Champion** | Infosys | Project execution and SAP HANA articles during Q3FY15 |
+| Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
+| Jul & Sep 2014 | **SAP Inside Track — Top Speaker (1st Prize), twice** | SAP Community Network (SCN) | Chennai (July 2014) and Hyderabad (September 2014) |
+| Sep 2012 & Sep 2014 | **SCN Topic Leader — SAP HANA, twice** | SAP / SAP Community Network (SCN) | 2012 recognition while at Tech Mahindra; 2013–2014 recognition while at Infosys, awarded September 2014 |
+| Mar 2014 | **SAP HANA Distinguished Engineer** | SAP Community Network (SCN) | [Recognition announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641) |
+| May 2012 | **Pat On the Back (POB)** | Mahindra Satyam | Work for Nestlé |
+| May 2012 | **SCN Active Contributor GOLD** | SAP | Contributions to SAP Community Network |
+| Apr 2012 | **Associate of the Month** | Mahindra Satyam | SCN community contributions and representing the Mahindra Satyam SAP BI practice |
 
 ---
 
@@ -217,6 +239,11 @@ The repository includes the code, architecture, case study, demo and evaluation 
 - Part of the core organizing team – coordinated venue, agenda, logistics 90 days out
 - [Read the full experience blog →](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742)
 
+### SAP Inside Track Hyderabad 2014
+
+- **Top Speaker (1st Prize)**, awarded by SCN in September 2014
+- Presented a session at SAP Inside Track Hyderabad while at Infosys
+
 ### SAP Inside Track (Multiple Events)
 - Active speaker at multiple SAP Inside Track events across India
 - Topics covered: SAP HANA Modeling, SQL Scripting, performance optimization, predictive analytics
@@ -271,3 +298,4 @@ I'm always excited to discuss:
 ---
 
 **Let's build amazing data solutions together!** 🚀
+
