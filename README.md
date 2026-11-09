@@ -1,118 +1,57 @@
-Hello, I am Krishna 👋
+# Krishna Tangudu
 
-### Thank you for stopping by. Here's a little bit about myself...
+**Data Architect at Agilent Technologies · Snowflake Squad 2026 · SAP HANA Distinguished Engineer**
 
-- 😄 My pronouns are: He/His/Him
-- 🔭 I'm currently working on all things **Snowflake** and **SAP HANA**. That means...
-  - 👯 I'm looking to collaborate and create technical content that we can share with the community
-  - 🎯 Focus areas: Data Architecture, Cloud Data Warehousing, Data Engineering, and Lakehouse technologies
-- 📫 Here's how you can reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/) 
-  - [Dev.to](https://dev.to/swaroop_krishna_e2f4b83b2)
-  - [GitHub](https://github.com/LALITHASWAROOPK)
-  - [Snowflake Community](https://snowflake.discourse.group/u/krishna_tangudu/summary)
-  - [Data Platform Newsletter](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/)
-  
-- ⚡ Fun facts about me: Passionate about data architecture, storytelling through data, and constantly exploring emerging technologies
+I build enterprise data platforms and share the lessons that help other engineers build them better. My work spans Snowflake architecture, performance, governance and integration, with a growing focus on Cortex Agents and preserving business meaning as data moves between platforms.
 
----
+From answering SAP HANA community questions to publishing Snowflake code, practical guides and agent evaluations, my approach is consistent: **build, test, explain and help others learn.**
 
-## Building useful data platforms — and sharing what I learn
+[LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/) · [DEV articles](https://dev.to/swaroop_krishna_e2f4b83b2) · [Data Platform Field Notes](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/) · [Snowflake Community](https://snowflake.discourse.group/u/krishna_tangudu/summary)
 
-I turn practical data-platform problems into reusable code, technical walkthroughs and honest accounts of what worked, what failed and why. My work connects **Snowflake, SAP HANA, Salesforce and Microsoft Fabric**, with a growing focus on **Cortex Agents, semantic models and evaluating AI-generated answers**.
+## Contributions at a glance
 
-### Contribution snapshot
-
-- **24 published DEV posts**, covering Snowflake administration, performance, integration, AI agents and data architecture (profile checked November 9, 2026).
-- **Data Platform Field Notes:** 8 newsletter editions and **860 subscribers** as of November 8, 2026. [Read the newsletter](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/).
-- **SAP Community archive:** 1,489 posts, 143 solutions and 385 likes received, displayed on my historical [SCN profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) on November 9, 2026. The migrated profile is displayed as `former_member182302`; these are lifetime community totals, not article counts.
-
-### Featured public projects
-
-| Project | What others can learn or reuse |
+| Contribution | Evidence |
 | --- | --- |
-| [Snowflake Multi-Agent Admin Assistant](https://github.com/LALITHASWAROOPK/agent_snowflake_admin) | Cortex-based orchestration across administration, cost optimization and security/governance agents, with semantic views, setup SQL and a GitHub Copilot/MCP integration guide. |
-| [Snowflake Clone++](https://github.com/LALITHASWAROOPK/snowflake_cloning) | Database-cloning procedures and a four-part explanation of reference repointing, stream recreation, RBAC and parallel execution. |
-| [Salesforce–Snowflake Zero-Copy](https://github.com/LALITHASWAROOPK/salesforce-snowflake-zero-copy) | Setup scripts and practical sharing/federation guides, including the October 2026 V2 enrollment/OIDC flow and documented CDC limitations. |
-| [L2P — Logic to Product](https://github.com/LALITHASWAROOPK/L2P/tree/l2p-hackathon-build) | An October 2026 Intelligence at Work hackathon prototype that turns retrieved business definitions into validated, versioned data products using Snowflake Cortex Agents. |
+| **25 technical articles on DEV** | Practical writing on Snowflake, AI agents, data engineering and platform interoperability; count updated November 9, 2026 |
+| **Data Platform Field Notes** | 8 newsletter editions; 860 subscribers as of November 8, 2026 |
+| **Four featured public projects** | Snowflake administration agents, Clone++, Salesforce zero-copy integration and the L2P hackathon prototype |
+| **Longstanding community support** | SAP Community archive: 1,489 posts, 143 solutions and 385 likes received, checked November 9, 2026 |
+| **Speaking and mentoring** | Two SAP Inside Track Top Speaker awards, event organization, technical knowledge sharing and Nvolve mentoring |
 
-### Hackathon: L2P — Logic to Product
+## Snowflake projects and practical lessons
 
-Moving tables does not automatically preserve the business logic embedded in source models and reports. **L2P** explores how a Builder agent can retrieve those definitions, create a candidate data product, validate it and release it for a separate Consumer agent to query.
+### Reusable code and walkthroughs
 
-The public demonstration uses **synthetic HANA, Qlik and Spotfire definitions**, Cortex Search, Cortex Analyst and a guarded semantic view. **Eleven deterministic contract checks** gate release. In the recorded tests, a join that inflated sales totals was rejected; a correct candidate passed and was released with versioned evidence.
+| Project | Problem addressed and contribution |
+| --- | --- |
+| [Snowflake Multi-Agent Admin Assistant](https://github.com/LALITHASWAROOPK/agent_snowflake_admin) | Makes account administration, cost analysis and security/governance accessible through Cortex-based agents. Includes setup SQL, semantic views and GitHub Copilot/MCP integration guidance. |
+| [Snowflake Clone++](https://github.com/LALITHASWAROOPK/snowflake_cloning) | Addresses the work that follows a database clone: repointing references, recreating streams and managing RBAC. Includes procedures and a four-part technical series. |
+| [Salesforce–Snowflake Zero-Copy](https://github.com/LALITHASWAROOPK/salesforce-snowflake-zero-copy) | Shares setup scripts and lessons from data sharing and federation, including V2 enrollment/OIDC, migration checks and the CDC limitations encountered. |
+| [L2P — Logic to Product](https://github.com/LALITHASWAROOPK/L2P/tree/l2p-hackathon-build) | Demonstrates how Cortex Agents can turn retrieved business definitions into validated, versioned data products. Built for the October 2026 Intelligence at Work hackathon. |
 
-The repository includes the code, architecture, case study, demo and evaluation records. Its custom agent suite recorded **19 passing runs across ten fixed synthetic cases** on the tested revision. The documentation also records unresolved findings and test limitations; this is a hackathon prototype, not a claim of production reliability or measured business savings. Preparation and event-built contributions are documented separately.
+### Hackathon highlight: preserving meaning, not just moving tables
 
-[Demo and evidence](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/START-HERE.md) · [Case study](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/submission/L2P-CASE-STUDY.txt)
+**L2P** connects a Builder agent that retrieves definitions, creates a candidate and validates it with a Consumer agent that queries the released product through a semantic view. It uses Cortex Search, Cortex Analyst and synthetic HANA, Qlik and Spotfire definitions.
 
----
+The key demonstration: a many-to-many join produced the expected number of output rows but inflated the sales total. **Contract checks caught the error and blocked release.** A correct candidate passed all eleven checks and was released with versioned evidence.
 
-## Professional Summary
+The repository includes the implementation, demo, architecture and evaluations, with preparation separated from event work. The recorded custom suite passed 19 runs across ten fixed synthetic cases; its scope and unresolved findings are documented alongside the results.
 
-**Data Architect** at Agilent Technologies with deep expertise in enterprise data platforms and cloud data warehousing. I'm a **SAP HANA Distinguished Engineer** and hold multiple certifications across the SAP ecosystem and Snowflake.
+[Watch the demo and inspect the evidence](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/START-HERE.md) · [Read the case study](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/submission/L2P-CASE-STUDY.txt)
 
-**Location:** San Francisco Bay Area  
-**Education:** Masters in Business Analytics (CSUEB)
+### Selected writing
 
-### Certifications
+These are starting points for readers who want to understand how I investigate problems and share usable lessons:
 
-- ❄️ **SnowPro Core Certified**
-- ✅ **4X SAP Certified:** SAP HANA 1.0, SAP BO 4.0, SAP BODS 3.x, SAP BI 7.0
+- **Performance and cost:** [How a Simple Warehouse Resize Saved Us 11% in Daily Credits While Boosting Performance](https://dev.to/swaroop_krishna_e2f4b83b2/how-a-simple-warehouse-resize-saved-us-11-in-daily-credits-while-boosting-performance-2753).
+- **Honest platform evaluation:** [Evaluating Adaptive Warehouses for ETL: Why We Reverted to Standard](https://dev.to/swaroop_krishna_e2f4b83b2/evaluating-adaptive-warehouses-for-etl-why-we-reverted-to-standard-239f).
+- **Agent reliability:** [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46).
+- **Interoperability:** [When Zero-Copy and Mirroring Clash: An Iceberg Metadata Gotcha](https://dev.to/swaroop_krishna_e2f4b83b2/when-zero-copy-and-mirroring-clash-an-iceberg-metadata-gotcha-part-3-de3).
+- **Business meaning:** [Moving Data Is Easier Than Moving Knowledge](https://dev.to/swaroop_krishna_e2f4b83b2/moving-data-is-easier-than-moving-knowledge-2co4).
 
-### Community Recognition
+<details>
+<summary>Explore more technical articles and series</summary>
 
-- **Snowflake Squad — 2026**
-- **SAP HANA Distinguished Engineer — March 2014:** [SAP Community recognition announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641)
-- **SCN Topic Leader — SAP HANA, twice:** 2012 , 2014
-
-### Honors & Awards
-
-Recognition across enterprise delivery, technical contributions, community knowledge sharing and public speaking.
-
-| Date | Honor or award | Issuer | Contribution recognized |
-| --- | --- | --- | --- |
-| Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | Individual contribution to Enterprise Analytics Team |
-| Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent | Crosslab Service Analytics |
-| Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent | Distributor Order Reporting Process Simplification |
-| Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent | AcoE High Performance Analytics |
-| Aug 2015 | **INSTA Award** | Infosys | Contributions and dedication to UOV deliverables, plus HANA technical support for other accounts and proposals |
-| Apr 2015 | **Tech Champion** | Infosys | Project execution and SAP HANA articles during Q3FY15 |
-| Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
-| Jul & Sep 2014 | **SAP Inside Track — Top Speaker (1st Prize), twice** | SAP Community Network (SCN) | Chennai (July 2014) and Hyderabad (September 2014) |
-| May 2012 | **Pat On the Back (POB)** | Mahindra Satyam | Work for Nestlé |
-| May 2012 | **SCN Active Contributor GOLD** | SAP | Contributions to SAP Community Network |
-| Apr 2012 | **Associate of the Month** | Mahindra Satyam | SCN community contributions and representing the Mahindra Satyam SAP BI practice |
-
----
-
-## Technical Expertise
-
-### Cloud Data Warehousing & Lakes
-- **Snowflake:** Zero-Copy Sharing, Cloning, Data Sharing, Iceberg Tables, Dynamic Tables, Query Performance Optimization, Cost Management (FinOps)
-- **Apache Iceberg:** Lakehouse Architecture, Open Table Formats
-- **AWS Data Lake:** AWS Glue, Data Lake Design Patterns
-
-### SAP Ecosystem
-- **SAP HANA:** Calculation Views, SQL Scripting, Stored Procedures, Performance Tuning, Data Modeling, Predictive Analysis
-- **SAP Business Objects:** WebI, Analysis Office, Lumira, Dashboard Design
-- **SAP BW/HANA Migration:** Legacy system transformation, EDW modernization
-- **SAP BODS:** ETL, Data Integration, Custom Logic
-
-### Data Engineering & Architecture
-- **Data Architecture:** Dimensional Modeling, Lakehouse Design, Multi-layer Architecture (Bronze-Silver-Gold)
-- **ETL/ELT:** End-to-End pipeline design, real-time CDC, streaming architectures
-- **Performance Optimization:** Query tuning, index strategies, cost optimization
-- **RBAC & Security:** Role-based access control, data governance
-
-### Technologies & Tools
-- Languages: SQL, Python, JavaScript, ABAP
-- Platforms: Snowflake, SAP HANA, AWS (EC2, S3, Glue, Lambda), Azure
-- Tools: DBT, Airflow, Tableau, Power BI, Streamlit
-
----
-
-## Technical Guides & Articles
 
 ### Snowflake Deep Dives
 - [Same Shared Data. Different Answers. The Snowflake Timezone Trap](https://dev.to/swaroop_krishna_e2f4b83b2/same-shared-data-different-answers-the-snowflake-timezone-trap-20gd)
@@ -150,7 +89,6 @@ Recognition across enterprise delivery, technical contributions, community knowl
 - [Moving Data Is Easier Than Moving Knowledge](https://dev.to/swaroop_krishna_e2f4b83b2/moving-data-is-easier-than-moving-knowledge-2co4)
 
 ### SAP HANA Technical Content (SAP Community / SCN)
-> 🗒️ **Full archive:** [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) — historical community archive; 1,489 posts, 143 solutions and 385 likes received (checked November 9, 2026)
 
 #### SAP HANA Modelling & SQL Scripting
 - [SAP HANA: Using "Dynamic Join" in Calculation View (Graphical)](https://blogs.sap.com/?p=99974)
@@ -163,138 +101,51 @@ Recognition across enterprise delivery, technical contributions, community knowl
 - [SAP HANA: My experiences on using Predictive Analysis Toolset with HANA (PAL)](https://blogs.sap.com/?p=64845)
 - [SAP HANA: My Experiences with SAP Business Objects Predictive Analysis tool](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
 
-#### Community & Events
-- [SAP Inside Track Chennai 2014 – From an SCN Fan perspective](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742)
-- [Krishna Tangudu – HANA Distinguished Engineer and Poet](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641)
+</details>
 
----
+## Community contributions and recognition
 
-## Career Journey
+### Sharing knowledge and supporting others
 
-### Tech Mahindra (Early Career)
-- **Role:** SAP BI Support Consultant
-- **Focus:** Daily data load monitoring, troubleshooting data quality issues
-- **Industries:** FMCG sector
-- **Key Learnings:** Understanding of EDW challenges—data volume management, reporting performance, storage optimization
+- **Writing and education:** I publish practical technical articles and Data Platform Field Notes to make implementation lessons, tradeoffs and failure modes useful to other engineers.
+- **Community answers:** My [SAP Community archive](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) records contributions dating back to 2010. Its totals include discussions and answers, not just articles; the migrated profile is displayed as `former_member182302`.
+- **Speaking and event organization:** Organizer and speaker at SAP Inside Track Chennai 2014; awarded **Top Speaker (1st Prize)** at both Chennai (July 2014) and Hyderabad (September 2014). [Chennai event account](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742).
+- **Nvolve mentoring:** Contributed as a volunteer mentor with Nvolve, supporting its work to help women pursue STEM careers.
+- **Technical mentoring:** Knowledge-sharing sessions and guidance for data engineers and SAP HANA practitioners, alongside mentoring within engineering teams.
 
-### SAP HANA Exploration & Contribution
-- Received free SAP HANA on AWS access (2011)
-- Actively contributed technical content to SAP Community Network (SCN)
-- Earned **Topic Leader Badge** for SAP HANA (2012)
-- Recognized as **HANA Distinguished Engineer** (2014)
+### Community recognition
 
-### Infosys (BI/HANA Consultant)
-- **Implementations:** 
-  - 3 comprehensive dashboards (22+ reports) on SAP HANA
-  - Teradata-to-HANA migration for Hi-Tech Major in US
-  - Real-time data replication framework
-- **Expertise Developed:** SQL scripting, optimized HANA modeling, complex business logic solutions
-- **Challenges Solved:** 
-  - Dynamic filtering with HTML5 dashboards
-  - Commits/Rollbacks in stored procedures (workaround solution)
-  - Master data vs. transaction data separation strategies
+- **Snowflake Squad — 2026:** [Official Snowflake badge](https://developerbadges.snowflake.com/5c0df258-d1b8-4814-af86-1cce7d7e2bdc), issued September 3, 2026.
+- **SAP HANA Distinguished Engineer — March 2014:** [SAP Community announcement](https://community.sap.com/t5/technology-blog-posts-by-members/krishna-tangudu-hana-distinguished-engineer-and-poet/ba-p/13073641).
+- **SCN Topic Leader — SAP HANA, twice:** [2011–2012 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/announcing-the-scn-topic-leaders-2011-2012/ba-p/12942399) and [2013–2014 announcement](https://community.sap.com/t5/welcome-corner-blog-posts/recognizing-the-scn-topic-leaders-for-2013-2014/ba-p/13099614). Listed under SAP HANA and In-Memory Computing as `krishna.tangudu2` and `krishna.tangudu`, respectively.
+- **SCN Active Contributor GOLD — May 2012:** Recognition for contributions to SAP Community Network.
 
-### Agilent Technologies (Current - Data Architect)
-- Leading cloud data platform initiatives
-- Designing scalable, cost-efficient data architectures
-- Mentoring data engineering teams
-- Exploring emerging technologies (Snowflake, Iceberg, Microsoft Fabric)
+## Professional background
 
----
+I am a **Data Architect at Agilent Technologies**, based in the San Francisco Bay Area, with earlier SAP BI and HANA roles at Infosys and Tech Mahindra. My experience connects enterprise implementation with community education: cloud data architecture, SAP modernization, Snowflake governance and optimization, Iceberg interoperability, and AI-assisted data discovery.
 
-## Public Code & Community Contributions
+**Education:** Master's in Business Analytics, California State University, East Bay.  
+**Certifications:** SnowPro Core; four SAP certifications covering HANA 1.0, BO 4.0, BODS 3.x and BI 7.0.
 
-### SAP Community Network (SCN) Profile
-- **History:** Community member since November 2010; historical profile now displayed as `former_member182302`
-- **Counters checked:** November 9, 2026
-- **Posts:** 1,489
-- **Solutions Provided:** 143
-- **Likes Received:** 385
-- **Badges Earned:** 
-  - 🏆 HANA Distinguished Engineer badge
-  - 200+ Likes Received
-  - 100+ Likes Received
-  - 50+ Likes Received
-  - Pay It Forward
-  - SAP HANA Idea Incubator Fan
-  - Be a Better Member
-  - And many more community recognition badges
+<details>
+<summary>Employer awards and delivery recognition</summary>
 
-### Other Community Platforms
-- **Dev.to Community:** 24 published posts on Snowflake, data engineering, and cloud architecture (checked November 9, 2026)
-- **Snowflake Community:** Sharing best practices on cloning, optimization, and cost management
-- **SAP Community:** Technical articles, accepted solutions, event participation and knowledge sharing
+| Date | Honor or award | Issuer | Contribution recognized |
+| --- | --- | --- | --- |
+| Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | — |
+| Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent | Crosslab Service Analytics |
+| Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent | Distributor Order Reporting Process Simplification |
+| Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent | AcoE High Performance Analytics |
+| Aug 2015 | **INSTA Award** | Infosys | Contributions and dedication to UOV deliverables, plus HANA technical support for other accounts and proposals |
+| Apr 2015 | **Tech Champion** | Infosys | Project execution and SAP HANA articles during Q3FY15 |
+| Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
+| May 2012 | **Pat On the Back (POB)** | Mahindra Satyam | Work for Nestlé |
+| Apr 2012 | **Associate of the Month** | Mahindra Satyam | SCN community contributions and representing the Mahindra Satyam SAP BI practice |
 
-### Profile Links
-- [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
+</details>
 
----
+## Connect and collaborate
 
-## Speaking Engagements
+I'm interested in sharing implementation experiences, contributing technical walkthroughs, speaking about data-platform lessons and helping others build reliable systems on Snowflake.
 
-### SAP Inside Track Chennai 2014
-- **Roles:** Organizer + Speaker + Participant (all three!)
-- **Voted Top Speaker** by attendees (250+ SAP enthusiasts)
-- Spoke to a live audience of 250+ on SAP HANA topics within a 30-minute lightning session
-- Part of the core organizing team – coordinated venue, agenda, logistics 90 days out
-- [Read the full experience blog →](https://community.sap.com/t5/technology-blog-posts-by-members/sap-inside-track-chennai-2014-from-an-scn-fan-perspective/ba-p/13107742)
-
-### SAP Inside Track Hyderabad 2014
-
-- **Top Speaker (1st Prize)**, awarded by SCN in September 2014
-- Presented a session at SAP Inside Track Hyderabad while at Infosys
-
-### SAP Inside Track (Multiple Events)
-- Active speaker at multiple SAP Inside Track events across India
-- Topics covered: SAP HANA Modeling, SQL Scripting, performance optimization, predictive analytics
-
-### SAP TechEd Bangalore
-- Met Marilyn Pratt (SAP Community lead) and the global SAP community team in person
-- Recognized by the community for sustained technical content contributions
-
-### Other Engagements
-- Technical workshops on HANA modeling and Snowflake administration
-- Internal knowledge-sharing sessions at Tech Mahindra and Infosys (110+ virtual attendees)
-- Mentorship for aspiring data engineers and SAP HANA practitioners
-
----
-
-## What I'm Currently Exploring
-
-- 🔬 **Microsoft Fabric:** Building native Fabric experiences and exploring its capabilities
-- 🚀 **Agentic Systems:** Building intelligent agents for Snowflake administration using Cortex AI and GitHub Copilot
-- 📊 **Cost Optimization (FinOps):** Advanced strategies for cloud cost management without sacrificing performance
-- 🏗️ **Lakehouse Architecture:** Production-grade implementations with Apache Iceberg
-- 🤝 **Data Mesh Patterns:** Decentralized data architecture and domain-driven design
-
----
-
-## Beyond Work
-
-When I'm not diving into data architectures, you'll find me:
-- 📚 Reading about emerging technologies and data trends
-- 🎯 Working on side projects that solve real-world problems
-- 💼 Mentoring junior data engineers and architects
-- 🌱 Contributing to the open data community
-- ☕ Connecting with tech enthusiasts and sharing knowledge
-
----
-
-## Let's Connect
-
-I'm always excited to discuss:
-- Cloud data platform architecture
-- Snowflake optimization and cost management
-- SAP HANA technical deep dives
-- Data engineering best practices
-- Building data communities and sharing knowledge
-
-**Reach out on:**
-- [LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/)
-- [Dev.to](https://dev.to/swaroop_krishna_e2f4b83b2)
-- [GitHub](https://github.com/LALITHASWAROOPK)
-- [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
-
----
-
-**Let's build amazing data solutions together!** 🚀
+[Connect on LinkedIn](https://www.linkedin.com/in/krishna-tangudu-1a961319/) · [Read the newsletter](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/) · [Explore my repositories](https://github.com/LALITHASWAROOPK)
