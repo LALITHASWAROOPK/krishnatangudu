@@ -1,4 +1,4 @@
-# Hello, I am Krishna 👋
+Hello, I am Krishna 👋
 
 ### Thank you for stopping by. Here's a little bit about myself...
 
@@ -17,6 +17,37 @@
 
 ---
 
+## Building useful data platforms — and sharing what I learn
+
+I turn practical data-platform problems into reusable code, technical walkthroughs and honest accounts of what worked, what failed and why. My work connects **Snowflake, SAP HANA, Salesforce and Microsoft Fabric**, with a growing focus on **Cortex Agents, semantic models and evaluating AI-generated answers**.
+
+### Contribution snapshot
+
+- **24 published DEV posts**, covering Snowflake administration, performance, integration, AI agents and data architecture (profile checked November 9, 2026).
+- **Data Platform Field Notes:** 8 newsletter editions and **860 subscribers** as of November 8, 2026. [Read the newsletter](https://www.linkedin.com/newsletters/data-platform-field-notes-7465407764811452416/).
+- **SAP Community archive:** 1,489 posts, 143 solutions and 385 likes received, displayed on my historical [SCN profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) on November 9, 2026. The migrated profile is displayed as `former_member182302`; these are lifetime community totals, not article counts.
+
+### Featured public projects
+
+| Project | What others can learn or reuse |
+| --- | --- |
+| [Snowflake Multi-Agent Admin Assistant](https://github.com/LALITHASWAROOPK/agent_snowflake_admin) | Cortex-based orchestration across administration, cost optimization and security/governance agents, with semantic views, setup SQL and a GitHub Copilot/MCP integration guide. |
+| [Snowflake Clone++](https://github.com/LALITHASWAROOPK/snowflake_cloning) | Database-cloning procedures and a four-part explanation of reference repointing, stream recreation, RBAC and parallel execution. |
+| [Salesforce–Snowflake Zero-Copy](https://github.com/LALITHASWAROOPK/salesforce-snowflake-zero-copy) | Setup scripts and practical sharing/federation guides, including the October 2026 V2 enrollment/OIDC flow and documented CDC limitations. |
+| [L2P — Logic to Product](https://github.com/LALITHASWAROOPK/L2P/tree/l2p-hackathon-build) | An October 2026 Intelligence at Work hackathon prototype that turns retrieved business definitions into validated, versioned data products using Snowflake Cortex Agents. |
+
+### Hackathon: L2P — Logic to Product
+
+Moving tables does not automatically preserve the business logic embedded in source models and reports. **L2P** explores how a Builder agent can retrieve those definitions, create a candidate data product, validate it and release it for a separate Consumer agent to query.
+
+The public demonstration uses **synthetic HANA, Qlik and Spotfire definitions**, Cortex Search, Cortex Analyst and a guarded semantic view. **Eleven deterministic contract checks** gate release. In the recorded tests, a join that inflated sales totals was rejected; a correct candidate passed and was released with versioned evidence.
+
+The repository includes the code, architecture, case study, demo and evaluation records. Its custom agent suite recorded **19 passing runs across ten fixed synthetic cases** on the tested revision. The documentation also records unresolved findings and test limitations; this is a hackathon prototype, not a claim of production reliability or measured business savings. Preparation and event-built contributions are documented separately.
+
+[Demo and evidence](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/START-HERE.md) · [Case study](https://github.com/LALITHASWAROOPK/L2P/blob/l2p-hackathon-build/event/l2p/submission/L2P-CASE-STUDY.txt)
+
+---
+
 ## Professional Summary
 
 **Data Architect** at Agilent Technologies with deep expertise in enterprise data platforms and cloud data warehousing. I'm a **SAP HANA Distinguished Engineer** and hold multiple certifications across the SAP ecosystem and Snowflake.
@@ -27,7 +58,7 @@
 ### Certifications & Achievements
 - 🏆 **SAP HANA Distinguished Engineer** (Honored in 2014)
 - 🏆 **Snowflake Squad** (Honored in 2026)
-- ❄️ **Snowflake Pro Core Certified**
+- ❄️ **SnowPro Core Certified**
 - ✅ **4X SAP Certified:** SAP HANA 1.0, SAP BO 4.0, SAP BODS 3.x, SAP BI 7.0
 - 🌟 **Topic Leader Badge** - SAP HANA (2012)
 
@@ -62,6 +93,7 @@
 ## Technical Guides & Articles
 
 ### Snowflake Deep Dives
+- [Same Shared Data. Different Answers. The Snowflake Timezone Trap](https://dev.to/swaroop_krishna_e2f4b83b2/same-shared-data-different-answers-the-snowflake-timezone-trap-20gd)
 - [Evaluating Adaptive Warehouses for ETL: Why We Reverted to Standard](https://dev.to/swaroop_krishna_e2f4b83b2/evaluating-adaptive-warehouses-for-etl-why-we-reverted-to-standard-239f)
 - [How a Simple Warehouse Resize Saved Us 11% in Daily Credits While Boosting Performance](https://dev.to/swaroop_krishna_e2f4b83b2/how-a-simple-warehouse-resize-saved-us-11-in-daily-credits-while-boosting-performance-2753)
 - [From Glue to Horizon: Our Real Journey Building an Iceberg Lakehouse on Snowflake](https://dev.to/swaroop_krishna_e2f4b83b2/iceberg-lakehouse-on-snowflake-journey-3ln4)
@@ -75,18 +107,28 @@
 - [Part 4: Clone++ Parallelization and Production Features](https://dev.to/swaroop_krishna_e2f4b83b2/part-4-parallelization-and-production-features-3b3d)
 
 ### Salesforce & Snowflake Integration
+- [Salesforce to Snowflake, With Less Friction: Zero-Copy V2 in Practice](https://dev.to/swaroop_krishna_e2f4b83b2/salesforce-to-snowflake-with-less-friction-zero-copy-v2-in-practice-4435)
 - [Part 1: Zero-Copy Sharing – Salesforce Snowflake for Analytics](https://dev.to/swaroop_krishna_e2f4b83b2/part-1-zero-copy-sharing-salesforce-snowflake-for-analytics-4f0j)
 - [Part 2: Zero-Copy Data Federation - Snowflake Customer 360 Data to Salesforce Sales Reps](https://dev.to/swaroop_krishna_e2f4b83b2/part-2-reverse-zero-copy-activating-customer-360-in-salesforce-3c2b)
 
 ### AI & Snowflake Agents
+- [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46)
+- [Natural Language Is the Interface, Not the Semantic Layer](https://dev.to/swaroop_krishna_e2f4b83b2/natural-language-is-the-interface-not-the-semantic-layer-ce9)
+- [From Optimization to Protection: Adding a Security and Governance Agent to Your Snowflake Multi-Agent Team (Part 3)](https://dev.to/swaroop_krishna_e2f4b83b2/from-optimization-to-protection-adding-a-security-and-governance-agent-to-your-snowflake-369f)
 - [Ask Your Snowflake Account Anything — Build an AI Admin Agent with Cortex + GitHub Copilot (Part 1)](https://dev.to/swaroop_krishna_e2f4b83b2/ask-your-snowflake-account-anything-build-an-ai-admin-agent-with-cortex-github-copilot-1mk6)
 - [From One Agent to Many: Building a Multi-Agent Team for Snowflake Administration (Part 2)](https://dev.to/swaroop_krishna_e2f4b83b2/from-one-agent-to-many-building-a-multi-agent-team-for-snowflake-administration-part-2-379d)
 
 ### Microsoft Fabric & Power BI
+- [When Zero-Copy and Mirroring Clash: An Iceberg Metadata Gotcha — Part 3](https://dev.to/swaroop_krishna_e2f4b83b2/when-zero-copy-and-mirroring-clash-an-iceberg-metadata-gotcha-part-3-de3)
+- [Mirroring Snowflake Iceberg into Microsoft Fabric: The Gotchas — Part 2](https://dev.to/swaroop_krishna_e2f4b83b2/snowflake-iceberg-fabric-what-we-tried-what-support-confirmed-and-what-comes-next-ie0)
 - [Setting up Snowflake–Power BI Connectivity with Azure AD SSO and Auto-Provisioning](https://dev.to/swaroop_krishna_e2f4b83b2/setting-up-snowflake-power-bi-connectivity-with-azure-ad-sso-and-auto-provisioning-1gda)
 
+### Preserving Business Meaning During Modernization
+- [Leaving SAP HANA? Understand What You’re Taking With You.](https://dev.to/swaroop_krishna_e2f4b83b2/leaving-sap-hana-understand-what-youre-taking-with-you-5h70)
+- [Moving Data Is Easier Than Moving Knowledge](https://dev.to/swaroop_krishna_e2f4b83b2/moving-data-is-easier-than-moving-knowledge-2co4)
+
 ### SAP HANA Technical Content (SAP Community / SCN)
-> 🗒️ **Full archive:** [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) — 1,489+ posts, 143 solutions, 385+ likes received
+> 🗒️ **Full archive:** [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302) — historical community archive; 1,489 posts, 143 solutions and 385 likes received (checked November 9, 2026)
 
 #### SAP HANA Modelling & SQL Scripting
 - [SAP HANA: Using "Dynamic Join" in Calculation View (Graphical)](https://blogs.sap.com/?p=99974)
@@ -138,13 +180,14 @@
 
 ---
 
-## Open Source & Community Contributions
+## Public Code & Community Contributions
 
 ### SAP Community Network (SCN) Profile
-- **Status:** Active Contributor (since 2010)
-- **Posts:** 1,489+
-- **Solutions Provided:** 143+
-- **Likes Received:** 385+
+- **History:** Community member since November 2010; historical profile now displayed as `former_member182302`
+- **Counters checked:** November 9, 2026
+- **Posts:** 1,489
+- **Solutions Provided:** 143
+- **Likes Received:** 385
 - **Badges Earned:** 
   - 🏆 HANA Distinguished Engineer badge
   - 200+ Likes Received
@@ -156,9 +199,9 @@
   - And many more community recognition badges
 
 ### Other Community Platforms
-- **Dev.to Community:** 14+ published articles on Snowflake, data engineering, and cloud architecture
+- **Dev.to Community:** 24 published posts on Snowflake, data engineering, and cloud architecture (checked November 9, 2026)
 - **Snowflake Community:** Sharing best practices on cloning, optimization, and cost management
-- **SAP Mentor Program:** Active contributor and knowledge sharer
+- **SAP Community:** Technical articles, accepted solutions, event participation and knowledge sharing
 
 ### Profile Links
 - [SAP Community Profile](https://community.sap.com/t5/user/viewprofilepage/user-id/182302)
