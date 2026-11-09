@@ -133,9 +133,9 @@ I am a **Data Architect at Agilent Technologies**, based in the San Francisco Ba
 | Date | Honor or award | Issuer | Contribution recognized |
 | --- | --- | --- | --- |
 | Aug 2019 | **GIS One Agilent Award** | Agilent Technologies | Individual Contribution at Enterprise Analytics Team |
-| Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent | Crosslab Service Analytics |
-| Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent | Distributor Order Reporting Process Simplification |
-| Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent | AcoE High Performance Analytics |
+| Mar 2019 | **ACG Unit Award — SSD/LED headquarters and ADS** | Agilent Technologies | Crosslab Service Analytics |
+| Mar 2019 | **ACG Group Award — Sales SAPKJ** | Agilent Technologies | Distributor Order Reporting Process Simplification |
+| Mar 2019 | **GIO Special Unit Award — Global Operations Team** | Agilent Technologies | AcoE High Performance Analytics |
 | Aug 2015 | **INSTA Award** | Infosys | Contributions and dedication to UOV deliverables, plus HANA technical support for other accounts and proposals |
 | Apr 2015 | **Tech Champion** | Infosys | Project execution and SAP HANA articles during Q3FY15 |
 | Jan 2015 | **Key Contributor** | Infosys | Project execution and SAP HANA articles during Q2FY15 |
